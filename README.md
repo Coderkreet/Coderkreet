@@ -27,7 +27,7 @@ I'm a final student pursuing Bachelors's in Computer Application 🎓 from Nagpu
 - 🔭 I’m currently working on Node.js, React, MongoDB, etc 💻.
 - 🌱 I’m currently learning Full Stack Development 🚀.
 - 👯 I’m looking to collaborate on any Open Source Project involving Javascript / MERN Stack.
-- 📫 How to reach me: krunalbende2@gmail.com | [LinkedIn](https://www.linkedin.com/in/krunal-bende)  | [Instagram](https://instagram.com/_kreet_x) | [Portfolio](///)
+- 📫 How to reach me: krunalbende2@gmail.com | [LinkedIn](https://www.linkedin.com/in/krunal-bende)  | [Instagram](https://instagram.com/_kreet_x) | [Portfolio](https://coderkreet.github.io/Portfolio/)
 - 💻 I have worked on C++, Java, Python, HTML/CSS, Javascript, React, Nodejs, MySQL, MongoDB, Git, Docker, etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣. Hire [me](mailto:krunalbende2@gmail.com?Subject=Hello%kreet) 👨‍💻.
