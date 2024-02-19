@@ -38,6 +38,4 @@ I'm a final student pursuing Bachelors's in Computer Application 🎓 from Nagpu
 
 ⭐️ From [Coderkreet](https://github.com/Coderkreet)
 
-## Snake Eating my contribution 
 
-![snake gif](https://github.com/Coderkreet/Coderkreet/blob/output/github-contribution-grid-snake.gif)
