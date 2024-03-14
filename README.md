@@ -1,41 +1,45 @@
-## Krunal Bende <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+### Hi there 👋 I'm [Krunal!](https://github.com/Coderkreet)
 
-<a href="https://www.linkedin.com/in/krunal-bende">
-  <img align="left" alt="Pavan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/Coderkreet">
-  <img align="left" alt="Pavan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/">
-  <img align="left" alt="Pavan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://instagram.com/_kreet_x/">
-  <img align="left" alt="Pavan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.hackerrank.com//">
-  <img align="left" alt="Pavan's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
+---
 
-<br />
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-### Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi)
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">Talking about Personal Stuffs:
 
-I'm a final student pursuing Bachelors's in Computer Application 🎓 from Nagpur University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+- 🎓 I'm currently MCA 1st year *student*
+- 🌱 I’m currently focusing on *Web Development*  .
+- :monocle_face: I'm interested in coding, sleeping, and watching film
+- :sunglasses: *"It's never too late - never too late to start over, never too late to be happy"* 
 
-### More about me...
+---
 
-- 🔭 I’m currently working on Node.js, React, MongoDB, etc 💻.
-- 🌱 I’m currently learning Full Stack Development 🚀.
-- 👯 I’m looking to collaborate on any Open Source Project involving Javascript / MERN Stack.
-- 📫 How to reach me: krunalbende2@gmail.com | [LinkedIn](https://www.linkedin.com/in/krunal-bende)  | [Instagram](https://instagram.com/_kreet_x) | [Portfolio](https://coderkreet.github.io/Portfolio/)
-- 💻 I have worked on C++, Java, Python, HTML/CSS, Javascript, React, Nodejs, MySQL, MongoDB, Git, Docker, etc.
-- 💬 Ask me about anything! I am happy to help and guide you.
-- ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣. Hire [me](mailto:krunalbende2@gmail.com?Subject=Hello%kreet) 👨‍💻.
+##### Languages & Technologies I use
 
-### Show some ❤️ by starring some of the repositories!
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=Coderkreet&show_icons=true&hide_border=true)
-
-⭐️ From [Coderkreet](https://github.com/Coderkreet)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
+![Tailwind](https://img.shields.io/badge/-TAILWIND-%231572B6?style=flat&logo=Tailwind)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Nodejs](https://img.shields.io/badge/Node.js-86BE00?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-007ACC?logo=react&logoColor=black&style=flat)
+![Express](https://img.shields.io/badge/-Express-181717?style=flat&logo=Express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 
 
+#### Tools I use🛠
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
+![Sublime Text](https://img.shields.io/badge/-SUBLIME-%23575757?style=flat&logo=Sublime-text&logoColor=important)
+![NeoVim](https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white&style=flat)
+![Postman](https://img.shields.io/badge/-Postman-%23F05032?style=flat&logo=Postman&logoColor=%23ffffff)
+
+
+---
+### Github Stats📊
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Coderkreet&theme=github-dark)
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coderkreet&layout=compact&theme=blue-green)
+
+
+Last edited on: 10/03/2024
