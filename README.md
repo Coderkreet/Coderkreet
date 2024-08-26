@@ -6,7 +6,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">Talking about Personal Stuffs:
 
-- 🎓 I'm currently MCA 1st year *student*
+- 🎓 I'm currently MCA 2nd year *student*
 - 🌱 I’m currently focusing on *Web Development*  .
 - :monocle_face: I'm interested in coding, sleeping, and watching film
 - :sunglasses: *"It's never too late - never too late to start over, never too late to be happy"* 
